@@ -1,0 +1,2 @@
+class Cutoff < ApplicationRecord
+end
